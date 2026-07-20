@@ -37,9 +37,9 @@ Hybrid %	42.17%
 
 
 🛠️ Tech Stack
-Tool: Microsoft Power BI
-Data Processing: Power Query (data cleaning & transformation)
-Visualization: Power BI native visuals (bar, column, donut, area charts, cards, slicers)
+       Tool: Microsoft Power BI
+       Data Processing: Power Query (data cleaning & transformation)
+       Visualization: Power BI native visuals (bar, column, donut, area charts, cards, slicers)
 
 
 
@@ -49,5 +49,3 @@ Visualization: Power BI native visuals (bar, column, donut, area charts, cards, 
 
 
 
-
-Bar chart ranking cities with the highest number of job postings, led by Raleigh and Atlanta.
