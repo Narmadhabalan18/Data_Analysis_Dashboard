@@ -1,0 +1,3039 @@
+job_id,skill
+100001,Communication
+100001,Excel
+100001,Power BI
+100001,Python
+100001,SQL
+100001,Snowflake
+100001,VBA
+100002,Communication
+100002,Excel
+100002,Machine Learning
+100002,R
+100002,SQL
+100002,VBA
+100003,Azure
+100003,Business Intelligence
+100003,Excel
+100004,A/B Testing
+100004,ETL
+100004,Machine Learning
+100004,Power BI
+100004,SQL
+100005,A/B Testing
+100005,Business Intelligence
+100005,R
+100005,SQL
+100006,Excel
+100006,Machine Learning
+100006,Python
+100006,SQL
+100006,Statistics
+100007,A/B Testing
+100007,Data Visualization
+100007,ETL
+100007,Machine Learning
+100007,SQL
+100007,Tableau
+100008,Azure
+100008,Data Modeling
+100008,ETL
+100008,Excel
+100008,Machine Learning
+100008,Power BI
+100008,SQL
+100009,AWS
+100009,Excel
+100009,Power BI
+100009,SQL
+100010,Data Modeling
+100010,Excel
+100010,Python
+100010,SQL
+100010,Snowflake
+100011,AWS
+100011,Azure
+100011,Communication
+100011,Excel
+100011,SQL
+100011,Snowflake
+100011,Statistics
+100012,A/B Testing
+100012,Excel
+100012,Python
+100012,SQL
+100013,A/B Testing
+100013,Communication
+100013,Data Modeling
+100013,Excel
+100013,Looker
+100013,Power BI
+100013,SQL
+100014,ETL
+100014,Excel
+100014,Google Analytics
+100015,Azure
+100015,Power BI
+100015,SQL
+100016,Data Modeling
+100016,ETL
+100016,Machine Learning
+100016,SQL
+100017,Azure
+100017,Excel
+100017,SQL
+100018,Excel
+100018,Python
+100018,SQL
+100019,A/B Testing
+100019,Data Modeling
+100019,Excel
+100019,Machine Learning
+100019,SQL
+100019,Statistics
+100019,Tableau
+100020,Data Visualization
+100020,Machine Learning
+100020,Snowflake
+100020,Tableau
+100021,AWS
+100021,Azure
+100021,Excel
+100021,Looker
+100021,Power BI
+100021,SQL
+100021,Tableau
+100022,Excel
+100022,Looker
+100022,Machine Learning
+100022,Python
+100022,SQL
+100023,Azure
+100023,Excel
+100023,Power BI
+100023,Python
+100023,SQL
+100023,Tableau
+100024,Excel
+100024,SQL
+100024,Statistics
+100025,Communication
+100025,Google Analytics
+100025,R
+100025,SQL
+100026,A/B Testing
+100026,AWS
+100026,Business Intelligence
+100026,Data Visualization
+100026,Excel
+100026,Statistics
+100027,Azure
+100027,Business Intelligence
+100027,ETL
+100027,Excel
+100027,Google Analytics
+100027,Power BI
+100027,SQL
+100028,Azure
+100028,Data Visualization
+100028,ETL
+100028,Excel
+100028,Machine Learning
+100028,SQL
+100028,Statistics
+100029,Excel
+100029,SQL
+100029,Snowflake
+100030,AWS
+100030,Excel
+100030,SQL
+100030,VBA
+100031,Looker
+100031,Python
+100031,R
+100031,SQL
+100032,Looker
+100032,Python
+100032,SQL
+100033,A/B Testing
+100033,Communication
+100033,R
+100034,Business Intelligence
+100034,Communication
+100034,Excel
+100034,Google Analytics
+100034,Looker
+100034,SQL
+100034,Snowflake
+100035,Business Intelligence
+100035,Excel
+100035,Python
+100035,SQL
+100036,Azure
+100036,Business Intelligence
+100036,Communication
+100036,Excel
+100036,Google Analytics
+100036,Power BI
+100037,A/B Testing
+100037,Communication
+100037,ETL
+100037,Excel
+100037,SQL
+100038,Azure
+100038,ETL
+100038,Excel
+100038,Google Analytics
+100038,Python
+100038,SQL
+100038,VBA
+100039,Communication
+100039,Data Modeling
+100039,Looker
+100039,Machine Learning
+100039,Python
+100039,SQL
+100040,Excel
+100040,SQL
+100040,Statistics
+100040,Tableau
+100041,AWS
+100041,Power BI
+100041,SQL
+100042,Communication
+100042,Data Visualization
+100042,Excel
+100042,Power BI
+100042,SQL
+100043,Communication
+100043,Excel
+100043,Machine Learning
+100043,R
+100043,Snowflake
+100043,Tableau
+100044,A/B Testing
+100044,Data Modeling
+100044,ETL
+100044,Google Analytics
+100044,SQL
+100045,A/B Testing
+100045,Data Visualization
+100045,Excel
+100045,Python
+100045,SQL
+100045,Snowflake
+100045,Statistics
+100046,Data Visualization
+100046,Excel
+100046,SQL
+100046,VBA
+100047,Azure
+100047,Excel
+100047,R
+100047,SQL
+100047,Statistics
+100048,Azure
+100048,Excel
+100048,Machine Learning
+100048,SQL
+100048,Tableau
+100049,AWS
+100049,Business Intelligence
+100049,Excel
+100049,Google Analytics
+100049,Looker
+100049,Python
+100049,VBA
+100050,A/B Testing
+100050,AWS
+100050,Communication
+100050,Data Modeling
+100050,Excel
+100050,Power BI
+100050,Python
+100051,Azure
+100051,Excel
+100051,Google Analytics
+100051,Machine Learning
+100051,Power BI
+100051,SQL
+100051,Statistics
+100052,A/B Testing
+100052,Excel
+100052,Machine Learning
+100052,Python
+100052,SQL
+100053,AWS
+100053,Business Intelligence
+100053,Data Modeling
+100053,Data Visualization
+100053,Excel
+100053,Power BI
+100053,VBA
+100054,A/B Testing
+100054,SQL
+100054,VBA
+100055,Data Visualization
+100055,Excel
+100055,Looker
+100055,Python
+100055,SQL
+100055,Statistics
+100055,VBA
+100056,Excel
+100056,Python
+100056,SQL
+100057,Data Modeling
+100057,Excel
+100057,Machine Learning
+100057,SQL
+100057,Statistics
+100057,Tableau
+100058,A/B Testing
+100058,Business Intelligence
+100058,Communication
+100058,Excel
+100058,Google Analytics
+100058,Power BI
+100058,Python
+100059,Communication
+100059,Data Modeling
+100059,ETL
+100059,Excel
+100059,SQL
+100059,Snowflake
+100059,Statistics
+100060,Azure
+100060,Business Intelligence
+100060,Data Visualization
+100060,Excel
+100060,Looker
+100060,SQL
+100061,ETL
+100061,Excel
+100061,Looker
+100061,Tableau
+100061,VBA
+100062,Excel
+100062,Google Analytics
+100062,Looker
+100062,Machine Learning
+100062,Python
+100062,SQL
+100063,A/B Testing
+100063,Python
+100063,SQL
+100064,AWS
+100064,Excel
+100064,Google Analytics
+100064,SQL
+100064,VBA
+100065,A/B Testing
+100065,ETL
+100065,Excel
+100065,Python
+100066,AWS
+100066,Business Intelligence
+100066,Data Visualization
+100066,Excel
+100066,Google Analytics
+100066,Python
+100066,SQL
+100067,Data Modeling
+100067,ETL
+100067,Excel
+100067,Machine Learning
+100067,SQL
+100068,Data Modeling
+100068,Excel
+100068,Machine Learning
+100068,Tableau
+100069,Communication
+100069,Data Visualization
+100069,Machine Learning
+100069,SQL
+100069,Statistics
+100069,Tableau
+100070,Azure
+100070,Data Visualization
+100070,ETL
+100070,Excel
+100070,Python
+100070,SQL
+100071,A/B Testing
+100071,Azure
+100071,Google Analytics
+100071,Python
+100071,SQL
+100071,VBA
+100072,Azure
+100072,Excel
+100072,SQL
+100073,A/B Testing
+100073,Business Intelligence
+100073,Data Visualization
+100073,Excel
+100073,Machine Learning
+100073,Statistics
+100074,Excel
+100074,Google Analytics
+100074,Power BI
+100074,Python
+100074,SQL
+100074,Statistics
+100075,Data Modeling
+100075,Machine Learning
+100075,SQL
+100075,Tableau
+100076,Excel
+100076,Machine Learning
+100076,R
+100076,SQL
+100076,Tableau
+100077,A/B Testing
+100077,AWS
+100077,Data Modeling
+100077,Excel
+100077,SQL
+100077,VBA
+100078,Excel
+100078,Google Analytics
+100078,SQL
+100079,A/B Testing
+100079,Azure
+100079,Data Modeling
+100079,Power BI
+100079,SQL
+100079,Statistics
+100079,VBA
+100080,Azure
+100080,Communication
+100080,Data Modeling
+100080,Excel
+100080,SQL
+100080,VBA
+100081,AWS
+100081,Data Visualization
+100081,Excel
+100081,Power BI
+100081,SQL
+100081,VBA
+100082,Azure
+100082,Data Modeling
+100082,Excel
+100082,Machine Learning
+100082,SQL
+100082,VBA
+100083,Excel
+100083,SQL
+100083,Snowflake
+100084,Excel
+100084,Machine Learning
+100084,Python
+100084,SQL
+100085,Excel
+100085,SQL
+100085,VBA
+100086,AWS
+100086,Google Analytics
+100086,Looker
+100086,Power BI
+100086,SQL
+100087,Business Intelligence
+100087,Communication
+100087,Excel
+100087,Python
+100087,SQL
+100087,VBA
+100088,Business Intelligence
+100088,Data Visualization
+100088,Excel
+100088,Python
+100088,R
+100089,Power BI
+100089,SQL
+100089,Snowflake
+100089,VBA
+100090,Business Intelligence
+100090,Looker
+100090,R
+100091,Business Intelligence
+100091,Excel
+100091,Looker
+100092,Excel
+100092,SQL
+100092,Snowflake
+100093,Excel
+100093,Google Analytics
+100093,Power BI
+100093,Python
+100093,R
+100093,Snowflake
+100094,Azure
+100094,Excel
+100094,Google Analytics
+100094,Python
+100094,SQL
+100095,ETL
+100095,Excel
+100095,Python
+100095,SQL
+100095,Tableau
+100096,Excel
+100096,Google Analytics
+100096,Looker
+100096,Statistics
+100097,Communication
+100097,Data Modeling
+100097,Data Visualization
+100097,ETL
+100097,R
+100097,Snowflake
+100097,Tableau
+100098,A/B Testing
+100098,AWS
+100098,Azure
+100098,Business Intelligence
+100098,VBA
+100099,Excel
+100099,Machine Learning
+100099,SQL
+100099,Tableau
+100100,A/B Testing
+100100,Communication
+100100,Excel
+100100,Python
+100100,SQL
+100100,Tableau
+100101,Excel
+100101,Google Analytics
+100101,Power BI
+100102,Azure
+100102,Excel
+100102,SQL
+100102,Snowflake
+100103,A/B Testing
+100103,Azure
+100103,Data Modeling
+100103,Excel
+100103,SQL
+100103,Snowflake
+100104,Azure
+100104,Excel
+100104,Python
+100104,Snowflake
+100104,VBA
+100105,Excel
+100105,Google Analytics
+100105,SQL
+100106,AWS
+100106,Azure
+100106,Business Intelligence
+100106,Data Modeling
+100106,SQL
+100106,Statistics
+100107,Excel
+100107,Google Analytics
+100107,Machine Learning
+100108,AWS
+100108,Azure
+100108,Communication
+100108,Excel
+100108,Python
+100108,SQL
+100108,VBA
+100109,Business Intelligence
+100109,Communication
+100109,Data Modeling
+100109,Excel
+100109,SQL
+100109,Tableau
+100110,A/B Testing
+100110,ETL
+100110,Excel
+100110,Google Analytics
+100110,Python
+100110,SQL
+100110,Tableau
+100111,Excel
+100111,SQL
+100111,Tableau
+100112,AWS
+100112,Looker
+100112,SQL
+100112,Statistics
+100112,VBA
+100113,Data Modeling
+100113,Data Visualization
+100113,Excel
+100113,SQL
+100113,Snowflake
+100114,AWS
+100114,Python
+100114,SQL
+100114,VBA
+100115,Data Modeling
+100115,SQL
+100115,Snowflake
+100116,AWS
+100116,Azure
+100116,Business Intelligence
+100116,Data Visualization
+100116,Google Analytics
+100116,R
+100116,SQL
+100117,Google Analytics
+100117,Python
+100117,R
+100117,SQL
+100117,Snowflake
+100117,Tableau
+100117,VBA
+100118,Communication
+100118,Looker
+100118,SQL
+100118,VBA
+100119,Business Intelligence
+100119,Excel
+100119,SQL
+100120,Azure
+100120,Excel
+100120,Google Analytics
+100120,Power BI
+100120,SQL
+100121,Data Modeling
+100121,Excel
+100121,Google Analytics
+100121,VBA
+100122,Data Visualization
+100122,Excel
+100122,SQL
+100122,VBA
+100123,Azure
+100123,Data Modeling
+100123,Data Visualization
+100123,Excel
+100123,SQL
+100124,Data Modeling
+100124,ETL
+100124,Excel
+100124,Power BI
+100124,R
+100124,Tableau
+100124,VBA
+100125,Business Intelligence
+100125,Excel
+100125,SQL
+100125,Snowflake
+100125,Tableau
+100126,AWS
+100126,Data Visualization
+100126,Excel
+100126,Google Analytics
+100126,Looker
+100126,SQL
+100126,VBA
+100127,A/B Testing
+100127,Excel
+100127,Google Analytics
+100127,Looker
+100127,Machine Learning
+100127,R
+100127,SQL
+100128,Communication
+100128,Data Modeling
+100128,Snowflake
+100128,Statistics
+100129,Azure
+100129,Business Intelligence
+100129,Data Visualization
+100129,Google Analytics
+100129,SQL
+100130,Azure
+100130,Google Analytics
+100130,Looker
+100130,SQL
+100130,Statistics
+100131,Data Modeling
+100131,Excel
+100131,Python
+100131,SQL
+100132,A/B Testing
+100132,Azure
+100132,Excel
+100132,Power BI
+100132,SQL
+100133,Azure
+100133,Communication
+100133,R
+100133,SQL
+100134,Azure
+100134,Business Intelligence
+100134,Communication
+100134,Excel
+100134,Looker
+100134,R
+100134,SQL
+100135,AWS
+100135,Azure
+100135,Business Intelligence
+100135,Excel
+100135,Snowflake
+100136,AWS
+100136,Excel
+100136,Google Analytics
+100136,SQL
+100137,A/B Testing
+100137,ETL
+100137,Excel
+100137,Google Analytics
+100137,Machine Learning
+100137,SQL
+100138,AWS
+100138,Excel
+100138,SQL
+100139,Data Modeling
+100139,Excel
+100139,Looker
+100139,SQL
+100140,Excel
+100140,Python
+100140,SQL
+100140,Snowflake
+100141,Business Intelligence
+100141,Excel
+100141,Power BI
+100141,SQL
+100141,Statistics
+100142,Data Modeling
+100142,ETL
+100142,Excel
+100142,Machine Learning
+100142,SQL
+100143,AWS
+100143,Communication
+100143,ETL
+100143,R
+100143,SQL
+100143,Tableau
+100144,ETL
+100144,Power BI
+100144,R
+100144,SQL
+100145,Business Intelligence
+100145,Data Visualization
+100145,SQL
+100145,Tableau
+100146,A/B Testing
+100146,Business Intelligence
+100146,Data Modeling
+100146,ETL
+100146,Machine Learning
+100146,Power BI
+100146,SQL
+100147,AWS
+100147,Excel
+100147,SQL
+100147,Snowflake
+100147,Tableau
+100148,Azure
+100148,Communication
+100148,Google Analytics
+100148,Looker
+100148,SQL
+100148,Tableau
+100149,A/B Testing
+100149,ETL
+100149,Excel
+100149,SQL
+100149,Snowflake
+100149,Tableau
+100150,Excel
+100150,SQL
+100150,VBA
+100151,A/B Testing
+100151,ETL
+100151,SQL
+100151,Statistics
+100152,Excel
+100152,Google Analytics
+100152,SQL
+100153,A/B Testing
+100153,Excel
+100153,Google Analytics
+100153,SQL
+100154,Azure
+100154,Excel
+100154,Looker
+100154,R
+100154,Tableau
+100155,Excel
+100155,Python
+100155,SQL
+100155,Tableau
+100156,Communication
+100156,Excel
+100156,Looker
+100156,Machine Learning
+100156,SQL
+100156,Snowflake
+100156,VBA
+100157,Data Visualization
+100157,ETL
+100157,Excel
+100157,Machine Learning
+100157,R
+100157,Snowflake
+100157,VBA
+100158,ETL
+100158,Excel
+100158,SQL
+100159,A/B Testing
+100159,Excel
+100159,SQL
+100160,AWS
+100160,Excel
+100160,Google Analytics
+100160,Python
+100160,R
+100160,SQL
+100160,Statistics
+100161,Data Visualization
+100161,ETL
+100161,Excel
+100161,Google Analytics
+100161,Python
+100161,SQL
+100161,Tableau
+100162,Business Intelligence
+100162,Excel
+100162,Looker
+100162,Machine Learning
+100162,SQL
+100163,Data Modeling
+100163,Machine Learning
+100163,SQL
+100163,Tableau
+100164,Excel
+100164,Python
+100164,R
+100164,SQL
+100164,Tableau
+100165,AWS
+100165,Communication
+100165,Data Visualization
+100165,ETL
+100165,Python
+100165,SQL
+100166,Communication
+100166,Excel
+100166,SQL
+100167,ETL
+100167,Excel
+100167,Google Analytics
+100168,AWS
+100168,ETL
+100168,Google Analytics
+100168,Looker
+100169,A/B Testing
+100169,Azure
+100169,Business Intelligence
+100169,Excel
+100169,R
+100169,SQL
+100169,Statistics
+100170,Business Intelligence
+100170,Data Modeling
+100170,Looker
+100170,Machine Learning
+100170,Python
+100170,SQL
+100171,A/B Testing
+100171,Excel
+100171,SQL
+100172,A/B Testing
+100172,Azure
+100172,Business Intelligence
+100172,Data Visualization
+100172,Excel
+100172,Snowflake
+100172,Statistics
+100173,AWS
+100173,Data Visualization
+100173,Excel
+100173,Google Analytics
+100174,Google Analytics
+100174,Power BI
+100174,R
+100175,Communication
+100175,ETL
+100175,R
+100175,SQL
+100176,Excel
+100176,Power BI
+100176,SQL
+100177,AWS
+100177,Azure
+100177,Business Intelligence
+100177,Data Visualization
+100177,Power BI
+100177,SQL
+100178,Communication
+100178,ETL
+100178,Excel
+100178,SQL
+100179,Data Modeling
+100179,Data Visualization
+100179,Excel
+100179,Looker
+100179,Python
+100179,SQL
+100180,A/B Testing
+100180,AWS
+100180,Excel
+100180,Python
+100180,R
+100180,SQL
+100181,Machine Learning
+100181,Power BI
+100181,VBA
+100182,Business Intelligence
+100182,Excel
+100182,Machine Learning
+100182,SQL
+100183,Communication
+100183,ETL
+100183,Excel
+100183,R
+100183,Snowflake
+100183,Statistics
+100183,Tableau
+100184,Azure
+100184,Communication
+100184,Excel
+100184,Google Analytics
+100184,Machine Learning
+100184,SQL
+100184,Tableau
+100185,Communication
+100185,Excel
+100185,Machine Learning
+100185,SQL
+100186,Business Intelligence
+100186,Data Visualization
+100186,Python
+100186,SQL
+100186,VBA
+100187,Azure
+100187,Excel
+100187,Google Analytics
+100187,Looker
+100187,SQL
+100187,Tableau
+100187,VBA
+100188,Excel
+100188,Machine Learning
+100188,R
+100188,SQL
+100189,Excel
+100189,Power BI
+100189,SQL
+100190,A/B Testing
+100190,ETL
+100190,Excel
+100190,Looker
+100190,Python
+100190,SQL
+100191,Excel
+100191,Python
+100191,SQL
+100191,Snowflake
+100192,Excel
+100192,Power BI
+100192,SQL
+100193,Excel
+100193,SQL
+100193,Statistics
+100194,Data Visualization
+100194,SQL
+100194,Snowflake
+100195,Excel
+100195,SQL
+100195,VBA
+100196,Azure
+100196,Excel
+100196,Machine Learning
+100196,Python
+100196,SQL
+100196,Tableau
+100197,Communication
+100197,Excel
+100197,SQL
+100198,Excel
+100198,SQL
+100198,Tableau
+100199,Excel
+100199,Google Analytics
+100199,SQL
+100200,Business Intelligence
+100200,Data Modeling
+100200,Data Visualization
+100200,Excel
+100200,Machine Learning
+100200,Power BI
+100200,SQL
+100201,Azure
+100201,Communication
+100201,Excel
+100201,SQL
+100202,AWS
+100202,Business Intelligence
+100202,ETL
+100202,Excel
+100202,Python
+100202,SQL
+100202,VBA
+100203,A/B Testing
+100203,Excel
+100203,Looker
+100203,SQL
+100203,Statistics
+100204,A/B Testing
+100204,Excel
+100204,SQL
+100204,Snowflake
+100204,Statistics
+100205,Excel
+100205,Power BI
+100205,Python
+100205,SQL
+100205,Snowflake
+100206,A/B Testing
+100206,Business Intelligence
+100206,Data Modeling
+100206,Excel
+100206,Google Analytics
+100206,Machine Learning
+100207,AWS
+100207,Azure
+100207,Business Intelligence
+100207,Excel
+100207,SQL
+100207,Statistics
+100207,Tableau
+100208,AWS
+100208,ETL
+100208,Excel
+100208,Machine Learning
+100208,Snowflake
+100209,A/B Testing
+100209,Excel
+100209,Power BI
+100209,SQL
+100210,Business Intelligence
+100210,SQL
+100210,Tableau
+100211,Communication
+100211,Data Visualization
+100211,ETL
+100211,Power BI
+100211,R
+100211,SQL
+100212,Azure
+100212,Excel
+100212,Looker
+100212,Python
+100212,SQL
+100212,Tableau
+100213,Data Visualization
+100213,Excel
+100213,Google Analytics
+100213,Looker
+100213,SQL
+100213,Snowflake
+100214,A/B Testing
+100214,Data Modeling
+100214,Machine Learning
+100214,Power BI
+100214,R
+100214,Snowflake
+100214,Tableau
+100215,Data Visualization
+100215,Google Analytics
+100215,SQL
+100215,VBA
+100216,AWS
+100216,Excel
+100216,Looker
+100216,Power BI
+100216,Python
+100216,R
+100216,SQL
+100217,Excel
+100217,Google Analytics
+100217,R
+100217,SQL
+100217,Tableau
+100218,AWS
+100218,Azure
+100218,Google Analytics
+100218,Power BI
+100218,Python
+100218,VBA
+100219,A/B Testing
+100219,AWS
+100219,Data Modeling
+100219,ETL
+100219,Excel
+100219,R
+100219,SQL
+100220,Excel
+100220,Looker
+100220,Power BI
+100220,R
+100220,SQL
+100220,Tableau
+100220,VBA
+100221,ETL
+100221,Excel
+100221,Machine Learning
+100221,Power BI
+100221,SQL
+100222,A/B Testing
+100222,Business Intelligence
+100222,Excel
+100222,Python
+100222,R
+100222,VBA
+100223,Excel
+100223,Google Analytics
+100223,Looker
+100224,AWS
+100224,Data Modeling
+100224,Excel
+100224,Machine Learning
+100224,SQL
+100224,Snowflake
+100225,Excel
+100225,Looker
+100225,Power BI
+100225,Python
+100225,SQL
+100225,Statistics
+100225,VBA
+100226,Azure
+100226,Data Modeling
+100226,Data Visualization
+100226,Excel
+100226,Python
+100226,R
+100226,SQL
+100227,A/B Testing
+100227,Azure
+100227,Communication
+100227,ETL
+100227,Excel
+100228,Data Modeling
+100228,Snowflake
+100228,VBA
+100229,Communication
+100229,Excel
+100229,Python
+100229,Tableau
+100230,Azure
+100230,Data Modeling
+100230,SQL
+100231,Data Modeling
+100231,Excel
+100231,Power BI
+100231,SQL
+100232,Excel
+100232,Machine Learning
+100232,SQL
+100233,AWS
+100233,Azure
+100233,Google Analytics
+100233,Machine Learning
+100233,SQL
+100234,Business Intelligence
+100234,Communication
+100234,Python
+100234,SQL
+100234,Statistics
+100235,ETL
+100235,Excel
+100235,Power BI
+100235,R
+100235,SQL
+100235,Snowflake
+100235,Tableau
+100236,A/B Testing
+100236,ETL
+100236,Excel
+100236,Power BI
+100236,SQL
+100236,Snowflake
+100237,AWS
+100237,Excel
+100237,SQL
+100238,Excel
+100238,SQL
+100238,Tableau
+100239,AWS
+100239,Excel
+100239,SQL
+100239,Snowflake
+100240,Azure
+100240,Data Modeling
+100240,Excel
+100240,Google Analytics
+100240,SQL
+100241,Azure
+100241,Communication
+100241,ETL
+100241,Excel
+100241,SQL
+100242,AWS
+100242,Azure
+100242,Excel
+100242,R
+100242,SQL
+100243,Communication
+100243,Excel
+100243,Google Analytics
+100243,SQL
+100244,AWS
+100244,Communication
+100244,ETL
+100244,Looker
+100244,Power BI
+100244,SQL
+100244,Snowflake
+100245,Excel
+100245,Google Analytics
+100245,Looker
+100245,SQL
+100246,Communication
+100246,SQL
+100246,VBA
+100247,A/B Testing
+100247,Data Visualization
+100247,Excel
+100247,SQL
+100247,Snowflake
+100247,Statistics
+100247,VBA
+100248,Communication
+100248,Data Modeling
+100248,Excel
+100248,Google Analytics
+100248,Snowflake
+100248,Tableau
+100249,Data Visualization
+100249,Excel
+100249,Google Analytics
+100249,Power BI
+100249,R
+100249,SQL
+100249,Statistics
+100250,Business Intelligence
+100250,Excel
+100250,SQL
+100251,Communication
+100251,Data Modeling
+100251,Excel
+100251,Power BI
+100251,Snowflake
+100251,Tableau
+100251,VBA
+100252,Azure
+100252,Excel
+100252,Looker
+100252,SQL
+100252,Statistics
+100253,Excel
+100253,Power BI
+100253,Python
+100253,SQL
+100253,Snowflake
+100253,VBA
+100254,Communication
+100254,Excel
+100254,Power BI
+100254,SQL
+100254,VBA
+100255,Excel
+100255,Google Analytics
+100255,SQL
+100256,Communication
+100256,Excel
+100256,Power BI
+100256,R
+100257,Data Modeling
+100257,Excel
+100257,Power BI
+100257,SQL
+100258,A/B Testing
+100258,Communication
+100258,Data Modeling
+100258,Power BI
+100258,SQL
+100259,Excel
+100259,Looker
+100259,SQL
+100259,VBA
+100260,Data Modeling
+100260,Excel
+100260,SQL
+100261,AWS
+100261,SQL
+100261,Snowflake
+100262,Business Intelligence
+100262,Data Visualization
+100262,ETL
+100262,Excel
+100262,Looker
+100262,Power BI
+100262,SQL
+100263,Communication
+100263,Excel
+100263,SQL
+100263,Tableau
+100264,A/B Testing
+100264,Business Intelligence
+100264,Excel
+100264,Power BI
+100264,Snowflake
+100264,Tableau
+100264,VBA
+100265,ETL
+100265,Excel
+100265,Google Analytics
+100265,Machine Learning
+100265,Power BI
+100265,SQL
+100265,Tableau
+100266,AWS
+100266,Google Analytics
+100266,Power BI
+100266,SQL
+100266,Snowflake
+100266,Statistics
+100267,AWS
+100267,Azure
+100267,Communication
+100267,Excel
+100267,Looker
+100268,AWS
+100268,Excel
+100268,SQL
+100268,Statistics
+100268,VBA
+100269,Azure
+100269,Communication
+100269,ETL
+100269,Excel
+100269,Google Analytics
+100269,SQL
+100269,Snowflake
+100270,Azure
+100270,Data Visualization
+100270,Statistics
+100270,VBA
+100271,Excel
+100271,Machine Learning
+100271,SQL
+100272,Azure
+100272,Data Visualization
+100272,ETL
+100272,Excel
+100272,Looker
+100272,Python
+100272,SQL
+100273,Data Visualization
+100273,Google Analytics
+100273,SQL
+100273,VBA
+100274,A/B Testing
+100274,Business Intelligence
+100274,Data Modeling
+100274,ETL
+100274,Excel
+100274,Google Analytics
+100274,Looker
+100275,AWS
+100275,Excel
+100275,Looker
+100275,Machine Learning
+100275,R
+100275,SQL
+100275,Statistics
+100276,Azure
+100276,Communication
+100276,Excel
+100276,Python
+100276,SQL
+100276,Statistics
+100277,Communication
+100277,ETL
+100277,Excel
+100277,SQL
+100278,Data Visualization
+100278,SQL
+100278,Snowflake
+100279,A/B Testing
+100279,AWS
+100279,ETL
+100279,Google Analytics
+100279,Looker
+100279,Tableau
+100279,VBA
+100280,AWS
+100280,Azure
+100280,Data Visualization
+100280,Power BI
+100280,Python
+100280,Snowflake
+100280,Statistics
+100281,AWS
+100281,Azure
+100281,Business Intelligence
+100281,Excel
+100281,Google Analytics
+100281,Python
+100281,SQL
+100282,Business Intelligence
+100282,Excel
+100282,Looker
+100282,SQL
+100283,Communication
+100283,Data Visualization
+100283,Machine Learning
+100283,SQL
+100284,Azure
+100284,Machine Learning
+100284,Python
+100284,SQL
+100284,Statistics
+100285,Azure
+100285,Looker
+100285,R
+100285,SQL
+100285,Statistics
+100285,Tableau
+100285,VBA
+100286,AWS
+100286,Business Intelligence
+100286,Data Modeling
+100286,Python
+100286,R
+100286,Snowflake
+100286,Tableau
+100287,Data Visualization
+100287,SQL
+100287,Snowflake
+100287,Statistics
+100288,AWS
+100288,Azure
+100288,Data Visualization
+100288,ETL
+100288,Excel
+100288,R
+100288,VBA
+100289,Business Intelligence
+100289,Excel
+100289,Power BI
+100289,R
+100289,SQL
+100289,Snowflake
+100289,Tableau
+100290,Excel
+100290,Google Analytics
+100290,Power BI
+100290,SQL
+100291,Azure
+100291,Data Modeling
+100291,Excel
+100291,R
+100291,SQL
+100291,Tableau
+100291,VBA
+100292,A/B Testing
+100292,Communication
+100292,Data Modeling
+100292,Excel
+100292,SQL
+100292,Tableau
+100293,Communication
+100293,Data Modeling
+100293,Excel
+100293,SQL
+100294,Azure
+100294,Communication
+100294,Data Modeling
+100294,Excel
+100294,R
+100294,SQL
+100294,Snowflake
+100295,Communication
+100295,ETL
+100295,Excel
+100295,Looker
+100295,Machine Learning
+100295,Power BI
+100295,Tableau
+100296,ETL
+100296,SQL
+100296,Snowflake
+100297,Data Visualization
+100297,ETL
+100297,Looker
+100297,Machine Learning
+100297,Power BI
+100297,SQL
+100297,VBA
+100298,A/B Testing
+100298,Business Intelligence
+100298,Excel
+100298,Power BI
+100298,R
+100298,SQL
+100299,Communication
+100299,Excel
+100299,Python
+100299,SQL
+100300,Business Intelligence
+100300,Looker
+100300,SQL
+100301,A/B Testing
+100301,Data Visualization
+100301,SQL
+100302,Azure
+100302,Excel
+100302,SQL
+100303,Communication
+100303,Excel
+100303,Machine Learning
+100303,Power BI
+100303,R
+100303,SQL
+100303,VBA
+100304,A/B Testing
+100304,Excel
+100304,Google Analytics
+100304,Looker
+100304,SQL
+100304,VBA
+100305,Communication
+100305,Data Visualization
+100305,SQL
+100305,Snowflake
+100306,Data Visualization
+100306,Excel
+100306,Google Analytics
+100306,Looker
+100307,Data Visualization
+100307,Excel
+100307,SQL
+100307,Tableau
+100308,Data Modeling
+100308,Excel
+100308,Looker
+100308,Machine Learning
+100308,R
+100308,Snowflake
+100308,Statistics
+100309,Business Intelligence
+100309,Google Analytics
+100309,Looker
+100309,Power BI
+100309,SQL
+100309,Snowflake
+100310,Data Visualization
+100310,Excel
+100310,Google Analytics
+100310,R
+100310,SQL
+100311,A/B Testing
+100311,Excel
+100311,SQL
+100312,AWS
+100312,Data Modeling
+100312,Excel
+100312,Google Analytics
+100312,Looker
+100312,Machine Learning
+100312,SQL
+100313,Azure
+100313,Data Modeling
+100313,Excel
+100313,Machine Learning
+100313,SQL
+100314,Business Intelligence
+100314,Excel
+100314,Looker
+100314,SQL
+100314,Snowflake
+100315,Excel
+100315,R
+100315,SQL
+100316,Azure
+100316,Business Intelligence
+100316,Communication
+100316,Data Modeling
+100316,Excel
+100316,R
+100316,Snowflake
+100317,Azure
+100317,ETL
+100317,Excel
+100317,Python
+100317,SQL
+100317,VBA
+100318,Excel
+100318,R
+100318,Snowflake
+100318,Tableau
+100319,AWS
+100319,Azure
+100319,Business Intelligence
+100319,Communication
+100319,Excel
+100319,SQL
+100319,VBA
+100320,AWS
+100320,Data Visualization
+100320,Looker
+100320,SQL
+100321,Data Visualization
+100321,Excel
+100321,SQL
+100322,AWS
+100322,Machine Learning
+100322,SQL
+100322,VBA
+100323,Data Modeling
+100323,Excel
+100323,R
+100323,SQL
+100323,Tableau
+100324,AWS
+100324,Communication
+100324,Excel
+100324,Google Analytics
+100325,ETL
+100325,Excel
+100325,Machine Learning
+100325,Statistics
+100326,Looker
+100326,SQL
+100326,Statistics
+100327,A/B Testing
+100327,Excel
+100327,Power BI
+100327,SQL
+100327,Statistics
+100328,A/B Testing
+100328,Data Visualization
+100328,Excel
+100328,Python
+100328,R
+100328,SQL
+100328,Snowflake
+100329,Azure
+100329,Business Intelligence
+100329,Data Visualization
+100329,Google Analytics
+100329,SQL
+100329,Snowflake
+100330,Data Visualization
+100330,Google Analytics
+100330,R
+100330,SQL
+100330,Snowflake
+100330,VBA
+100331,AWS
+100331,Data Modeling
+100331,ETL
+100331,R
+100331,SQL
+100331,Snowflake
+100332,AWS
+100332,Communication
+100332,Excel
+100332,Google Analytics
+100332,SQL
+100332,Tableau
+100333,Excel
+100333,SQL
+100333,VBA
+100334,Business Intelligence
+100334,Excel
+100334,Python
+100334,SQL
+100335,Excel
+100335,SQL
+100335,Snowflake
+100336,Business Intelligence
+100336,Communication
+100336,Data Visualization
+100336,SQL
+100336,Snowflake
+100336,VBA
+100337,Azure
+100337,Communication
+100337,Data Visualization
+100337,Excel
+100337,Google Analytics
+100338,AWS
+100338,Business Intelligence
+100338,ETL
+100338,Excel
+100338,Looker
+100338,SQL
+100339,Azure
+100339,SQL
+100339,Snowflake
+100340,AWS
+100340,Excel
+100340,Python
+100340,SQL
+100341,AWS
+100341,Excel
+100341,SQL
+100342,A/B Testing
+100342,ETL
+100342,Excel
+100342,Power BI
+100342,SQL
+100342,Tableau
+100343,A/B Testing
+100343,Excel
+100343,Python
+100343,SQL
+100343,Snowflake
+100343,VBA
+100344,A/B Testing
+100344,Excel
+100344,Looker
+100344,SQL
+100344,Statistics
+100344,Tableau
+100344,VBA
+100345,Azure
+100345,Communication
+100345,Data Visualization
+100345,Excel
+100345,Power BI
+100345,R
+100345,SQL
+100346,A/B Testing
+100346,Data Visualization
+100346,Excel
+100346,SQL
+100346,Statistics
+100346,Tableau
+100347,Business Intelligence
+100347,Excel
+100347,SQL
+100348,ETL
+100348,Excel
+100348,SQL
+100348,Snowflake
+100349,ETL
+100349,Machine Learning
+100349,SQL
+100350,Azure
+100350,Excel
+100350,Python
+100350,R
+100350,SQL
+100351,A/B Testing
+100351,AWS
+100351,Data Modeling
+100351,Data Visualization
+100351,Excel
+100352,A/B Testing
+100352,Communication
+100352,Snowflake
+100352,Statistics
+100352,Tableau
+100352,VBA
+100353,AWS
+100353,Communication
+100353,Snowflake
+100353,Tableau
+100354,Data Modeling
+100354,Google Analytics
+100354,SQL
+100354,Tableau
+100355,A/B Testing
+100355,Azure
+100355,Data Modeling
+100355,Excel
+100355,Google Analytics
+100355,Machine Learning
+100355,Snowflake
+100356,A/B Testing
+100356,Excel
+100356,Looker
+100356,R
+100356,Statistics
+100356,Tableau
+100357,A/B Testing
+100357,Business Intelligence
+100357,Excel
+100357,Google Analytics
+100357,Looker
+100357,SQL
+100358,Business Intelligence
+100358,Power BI
+100358,SQL
+100359,AWS
+100359,Business Intelligence
+100359,ETL
+100359,Excel
+100360,Excel
+100360,Power BI
+100360,R
+100360,SQL
+100360,Snowflake
+100360,Tableau
+100361,Data Modeling
+100361,Excel
+100361,Python
+100361,SQL
+100362,Data Modeling
+100362,Excel
+100362,R
+100362,Tableau
+100362,VBA
+100363,Azure
+100363,Business Intelligence
+100363,Excel
+100363,Looker
+100363,SQL
+100364,Data Modeling
+100364,Excel
+100364,Machine Learning
+100364,SQL
+100365,Communication
+100365,Excel
+100365,Power BI
+100366,AWS
+100366,Data Visualization
+100366,Excel
+100366,Google Analytics
+100366,Python
+100366,R
+100366,Statistics
+100367,AWS
+100367,Excel
+100367,Power BI
+100367,SQL
+100367,Statistics
+100367,VBA
+100368,Data Visualization
+100368,Excel
+100368,SQL
+100368,Snowflake
+100368,Tableau
+100369,Communication
+100369,Excel
+100369,SQL
+100370,Azure
+100370,Google Analytics
+100370,Power BI
+100370,R
+100370,SQL
+100370,Statistics
+100370,VBA
+100371,Data Modeling
+100371,Looker
+100371,SQL
+100372,Azure
+100372,Data Modeling
+100372,Google Analytics
+100372,SQL
+100372,Statistics
+100373,AWS
+100373,Data Visualization
+100373,ETL
+100373,Excel
+100373,Power BI
+100373,R
+100373,SQL
+100374,Data Visualization
+100374,Excel
+100374,Power BI
+100374,R
+100374,Statistics
+100375,Azure
+100375,Excel
+100375,Google Analytics
+100375,Power BI
+100375,SQL
+100375,Snowflake
+100375,Tableau
+100376,AWS
+100376,SQL
+100376,Snowflake
+100377,Excel
+100377,SQL
+100377,Tableau
+100378,A/B Testing
+100378,Excel
+100378,Python
+100378,R
+100378,SQL
+100379,AWS
+100379,Business Intelligence
+100379,Data Visualization
+100379,ETL
+100379,R
+100379,VBA
+100380,AWS
+100380,Business Intelligence
+100380,Excel
+100380,Looker
+100380,Power BI
+100380,VBA
+100381,Business Intelligence
+100381,Excel
+100381,Looker
+100381,Python
+100381,SQL
+100382,Azure
+100382,Excel
+100382,Google Analytics
+100383,Azure
+100383,Communication
+100383,Excel
+100383,SQL
+100383,VBA
+100384,AWS
+100384,Business Intelligence
+100384,ETL
+100384,Excel
+100384,R
+100384,SQL
+100384,Snowflake
+100385,AWS
+100385,Business Intelligence
+100385,Excel
+100385,SQL
+100385,Statistics
+100385,Tableau
+100385,VBA
+100386,Data Visualization
+100386,ETL
+100386,Excel
+100386,Python
+100386,SQL
+100386,Snowflake
+100387,AWS
+100387,Excel
+100387,SQL
+100388,Azure
+100388,Data Visualization
+100388,ETL
+100388,Excel
+100388,SQL
+100388,Statistics
+100389,Business Intelligence
+100389,Communication
+100389,Data Modeling
+100389,Excel
+100389,Python
+100389,Tableau
+100390,A/B Testing
+100390,Communication
+100390,Looker
+100390,SQL
+100391,Looker
+100391,Python
+100391,SQL
+100392,AWS
+100392,SQL
+100392,VBA
+100393,Data Modeling
+100393,Excel
+100393,Machine Learning
+100393,R
+100393,SQL
+100394,Excel
+100394,Looker
+100394,Python
+100394,Snowflake
+100394,Tableau
+100395,Business Intelligence
+100395,Data Visualization
+100395,Excel
+100395,R
+100396,A/B Testing
+100396,Business Intelligence
+100396,Excel
+100396,R
+100396,SQL
+100396,Statistics
+100397,A/B Testing
+100397,ETL
+100397,Excel
+100397,Looker
+100397,Machine Learning
+100397,Python
+100397,VBA
+100398,ETL
+100398,Google Analytics
+100398,Machine Learning
+100398,SQL
+100398,Snowflake
+100398,VBA
+100399,Azure
+100399,Google Analytics
+100399,SQL
+100399,VBA
+100400,Data Modeling
+100400,Excel
+100400,Python
+100400,SQL
+100401,Data Modeling
+100401,Machine Learning
+100401,Power BI
+100401,R
+100401,SQL
+100401,Tableau
+100402,ETL
+100402,Excel
+100402,Machine Learning
+100402,SQL
+100403,Excel
+100403,Power BI
+100403,SQL
+100403,Tableau
+100404,Looker
+100404,SQL
+100404,Tableau
+100405,A/B Testing
+100405,Communication
+100405,ETL
+100405,Excel
+100405,Looker
+100405,Python
+100406,Data Visualization
+100406,Excel
+100406,Python
+100407,Data Visualization
+100407,ETL
+100407,Excel
+100407,Looker
+100407,Power BI
+100408,AWS
+100408,Azure
+100408,Business Intelligence
+100408,Excel
+100408,Looker
+100408,SQL
+100408,VBA
+100409,A/B Testing
+100409,Excel
+100409,Google Analytics
+100409,Looker
+100409,Python
+100409,SQL
+100409,Tableau
+100410,Business Intelligence
+100410,Excel
+100410,R
+100411,Azure
+100411,Data Modeling
+100411,Excel
+100411,Google Analytics
+100411,Power BI
+100411,Tableau
+100412,A/B Testing
+100412,Business Intelligence
+100412,Excel
+100412,R
+100412,SQL
+100413,AWS
+100413,Communication
+100413,SQL
+100414,Excel
+100414,Looker
+100414,R
+100414,SQL
+100415,Data Visualization
+100415,Excel
+100415,SQL
+100416,Excel
+100416,Google Analytics
+100416,R
+100416,SQL
+100416,Snowflake
+100416,VBA
+100417,Azure
+100417,Excel
+100417,R
+100418,Data Modeling
+100418,Excel
+100418,Google Analytics
+100418,Power BI
+100418,SQL
+100419,A/B Testing
+100419,Data Visualization
+100419,ETL
+100419,Excel
+100419,R
+100419,SQL
+100419,Tableau
+100420,A/B Testing
+100420,Communication
+100420,Excel
+100420,Google Analytics
+100420,R
+100420,SQL
+100421,Business Intelligence
+100421,Excel
+100421,Looker
+100421,SQL
+100422,Azure
+100422,Communication
+100422,Data Visualization
+100422,ETL
+100422,Excel
+100422,Looker
+100422,SQL
+100423,A/B Testing
+100423,Azure
+100423,Communication
+100423,Excel
+100423,Python
+100423,SQL
+100424,Business Intelligence
+100424,ETL
+100424,Looker
+100424,Python
+100424,SQL
+100424,Tableau
+100424,VBA
+100425,Azure
+100425,Excel
+100425,Google Analytics
+100425,Machine Learning
+100425,Python
+100425,Statistics
+100426,Azure
+100426,Excel
+100426,Google Analytics
+100426,Power BI
+100426,SQL
+100426,Statistics
+100426,Tableau
+100427,Azure
+100427,Data Visualization
+100427,Excel
+100427,Python
+100427,SQL
+100428,Business Intelligence
+100428,Python
+100428,SQL
+100429,AWS
+100429,Communication
+100429,Excel
+100429,Looker
+100429,R
+100429,SQL
+100429,Tableau
+100430,Azure
+100430,Google Analytics
+100430,Looker
+100430,SQL
+100430,VBA
+100431,AWS
+100431,Data Visualization
+100431,Excel
+100431,SQL
+100432,A/B Testing
+100432,Excel
+100432,Power BI
+100432,R
+100433,Business Intelligence
+100433,Data Visualization
+100433,Excel
+100433,R
+100433,SQL
+100434,Data Modeling
+100434,Excel
+100434,Looker
+100434,SQL
+100434,Tableau
+100435,AWS
+100435,Excel
+100435,Google Analytics
+100435,Python
+100435,SQL
+100435,Statistics
+100436,Business Intelligence
+100436,Excel
+100436,Google Analytics
+100436,Looker
+100436,SQL
+100436,Snowflake
+100436,Statistics
+100437,Business Intelligence
+100437,Communication
+100437,Excel
+100437,Python
+100437,SQL
+100437,Statistics
+100438,Data Modeling
+100438,ETL
+100438,Google Analytics
+100438,Python
+100438,SQL
+100438,Statistics
+100438,VBA
+100439,AWS
+100439,Excel
+100439,Looker
+100439,SQL
+100439,Snowflake
+100440,AWS
+100440,Communication
+100440,Excel
+100440,Looker
+100440,R
+100440,SQL
+100441,Data Visualization
+100441,Looker
+100441,Power BI
+100441,SQL
+100441,Snowflake
+100442,AWS
+100442,Communication
+100442,Data Modeling
+100442,Excel
+100442,SQL
+100443,AWS
+100443,Data Visualization
+100443,Excel
+100443,Machine Learning
+100443,Power BI
+100444,A/B Testing
+100444,Data Modeling
+100444,Snowflake
+100444,Statistics
+100445,AWS
+100445,Business Intelligence
+100445,Data Modeling
+100445,Data Visualization
+100445,Excel
+100445,Tableau
+100446,Communication
+100446,Data Modeling
+100446,Python
+100446,SQL
+100446,Statistics
+100447,Data Modeling
+100447,Looker
+100447,Machine Learning
+100447,Power BI
+100447,SQL
+100447,Tableau
+100447,VBA
+100448,Data Modeling
+100448,Data Visualization
+100448,Excel
+100448,R
+100448,SQL
+100449,Excel
+100449,Looker
+100449,Power BI
+100449,R
+100449,SQL
+100449,Snowflake
+100449,Statistics
+100450,Business Intelligence
+100450,Data Modeling
+100450,Excel
+100450,SQL
+100450,Snowflake
+100451,A/B Testing
+100451,Azure
+100451,Business Intelligence
+100451,Communication
+100451,Excel
+100452,Excel
+100452,SQL
+100452,Tableau
+100453,Communication
+100453,Looker
+100453,SQL
+100454,Business Intelligence
+100454,Excel
+100454,Machine Learning
+100454,Power BI
+100454,SQL
+100454,Tableau
+100455,Excel
+100455,Google Analytics
+100455,SQL
+100455,Tableau
+100456,Azure
+100456,Excel
+100456,Google Analytics
+100456,Looker
+100456,Machine Learning
+100456,SQL
+100456,Statistics
+100457,Communication
+100457,Excel
+100457,Looker
+100457,SQL
+100457,Tableau
+100458,ETL
+100458,Excel
+100458,Machine Learning
+100458,SQL
+100459,Data Visualization
+100459,Excel
+100459,Google Analytics
+100459,SQL
+100459,VBA
+100460,AWS
+100460,Excel
+100460,SQL
+100461,ETL
+100461,Excel
+100461,Google Analytics
+100461,SQL
+100461,Snowflake
+100461,VBA
+100462,Communication
+100462,Data Visualization
+100462,Excel
+100462,Looker
+100462,Statistics
+100463,AWS
+100463,Excel
+100463,Google Analytics
+100463,Machine Learning
+100463,Python
+100463,SQL
+100463,VBA
+100464,Business Intelligence
+100464,Data Modeling
+100464,Excel
+100464,R
+100464,Snowflake
+100465,A/B Testing
+100465,Communication
+100465,Excel
+100465,R
+100465,SQL
+100465,Snowflake
+100465,Statistics
+100466,AWS
+100466,Excel
+100466,Machine Learning
+100466,SQL
+100467,Data Modeling
+100467,Excel
+100467,Python
+100467,R
+100467,SQL
+100467,Statistics
+100467,Tableau
+100468,AWS
+100468,Excel
+100468,Google Analytics
+100469,AWS
+100469,Looker
+100469,Machine Learning
+100469,Power BI
+100469,Python
+100469,SQL
+100469,Snowflake
+100470,Communication
+100470,Excel
+100470,Looker
+100470,Machine Learning
+100470,SQL
+100471,AWS
+100471,Data Modeling
+100471,Looker
+100471,SQL
+100472,A/B Testing
+100472,Azure
+100472,Business Intelligence
+100472,ETL
+100472,SQL
+100473,Excel
+100473,Looker
+100473,Machine Learning
+100473,Python
+100473,SQL
+100474,Azure
+100474,Business Intelligence
+100474,Data Modeling
+100474,Excel
+100474,Google Analytics
+100474,SQL
+100475,A/B Testing
+100475,R
+100475,SQL
+100476,Excel
+100476,Google Analytics
+100476,R
+100476,SQL
+100477,Business Intelligence
+100477,Data Visualization
+100477,Excel
+100477,Machine Learning
+100477,Python
+100477,SQL
+100477,Statistics
+100478,A/B Testing
+100478,Business Intelligence
+100478,Data Visualization
+100478,Looker
+100478,Power BI
+100478,SQL
+100478,Snowflake
+100479,Communication
+100479,R
+100479,SQL
+100479,Tableau
+100479,VBA
+100480,Azure
+100480,ETL
+100480,Excel
+100480,Google Analytics
+100480,SQL
+100480,Statistics
+100481,Data Modeling
+100481,ETL
+100481,Excel
+100481,Machine Learning
+100481,SQL
+100481,Statistics
+100481,Tableau
+100482,Excel
+100482,Google Analytics
+100482,Python
+100482,SQL
+100482,Tableau
+100483,Data Modeling
+100483,Excel
+100483,Google Analytics
+100483,Machine Learning
+100483,Snowflake
+100484,Business Intelligence
+100484,Communication
+100484,Excel
+100484,Machine Learning
+100484,Power BI
+100484,R
+100485,AWS
+100485,R
+100485,SQL
+100485,Snowflake
+100485,Statistics
+100486,A/B Testing
+100486,Excel
+100486,Looker
+100487,Business Intelligence
+100487,Looker
+100487,SQL
+100488,AWS
+100488,ETL
+100488,Excel
+100488,Google Analytics
+100488,SQL
+100488,Statistics
+100488,Tableau
+100489,ETL
+100489,Excel
+100489,Python
+100489,R
+100489,SQL
+100489,Statistics
+100490,A/B Testing
+100490,Data Visualization
+100490,Excel
+100490,Power BI
+100490,Statistics
+100490,Tableau
+100490,VBA
+100491,Excel
+100491,Google Analytics
+100491,Snowflake
+100492,AWS
+100492,Google Analytics
+100492,Looker
+100492,Python
+100492,Snowflake
+100492,Tableau
+100493,Business Intelligence
+100493,Data Visualization
+100493,Machine Learning
+100493,Power BI
+100493,SQL
+100493,Tableau
+100494,Azure
+100494,Business Intelligence
+100494,Machine Learning
+100494,SQL
+100494,VBA
+100495,ETL
+100495,Excel
+100495,Power BI
+100496,AWS
+100496,Excel
+100496,Python
+100496,SQL
+100496,Tableau
+100497,A/B Testing
+100497,AWS
+100497,Business Intelligence
+100497,Excel
+100497,Python
+100497,SQL
+100497,Tableau
+100498,Azure
+100498,Communication
+100498,ETL
+100498,Excel
+100498,Google Analytics
+100498,Power BI
+100498,SQL
+100499,Data Modeling
+100499,ETL
+100499,SQL
+100500,Excel
+100500,Looker
+100500,Power BI
+100500,SQL
+100500,VBA
+100501,AWS
+100501,Business Intelligence
+100501,Data Modeling
+100501,ETL
+100501,Tableau
+100502,Excel
+100502,SQL
+100502,Tableau
+100503,Data Visualization
+100503,Excel
+100503,R
+100503,Snowflake
+100503,VBA
+100504,Azure
+100504,Machine Learning
+100504,Power BI
+100504,SQL
+100504,Tableau
+100505,Power BI
+100505,R
+100505,SQL
+100506,Business Intelligence
+100506,Google Analytics
+100506,Power BI
+100506,Statistics
+100506,Tableau
+100507,A/B Testing
+100507,Communication
+100507,ETL
+100507,SQL
+100507,Snowflake
+100507,Tableau
+100508,Excel
+100508,Python
+100508,SQL
+100509,Business Intelligence
+100509,Communication
+100509,Data Modeling
+100509,ETL
+100509,Excel
+100509,Google Analytics
+100509,SQL
+100510,AWS
+100510,Business Intelligence
+100510,Data Visualization
+100510,ETL
+100510,Excel
+100510,SQL
+100510,Statistics
+100511,AWS
+100511,Excel
+100511,Google Analytics
+100511,Looker
+100511,R
+100511,SQL
+100511,Snowflake
+100512,AWS
+100512,Business Intelligence
+100512,Excel
+100512,Power BI
+100512,SQL
+100512,Tableau
+100512,VBA
+100513,AWS
+100513,Azure
+100513,Data Visualization
+100513,Excel
+100513,SQL
+100513,Tableau
+100513,VBA
+100514,Communication
+100514,Excel
+100514,Python
+100515,Business Intelligence
+100515,Communication
+100515,Excel
+100515,Looker
+100515,Machine Learning
+100515,VBA
+100516,Business Intelligence
+100516,Data Visualization
+100516,Excel
+100516,Looker
+100516,Power BI
+100516,Python
+100516,Statistics
+100517,AWS
+100517,Data Visualization
+100517,Excel
+100517,SQL
+100518,Azure
+100518,Data Visualization
+100518,Excel
+100518,Power BI
+100518,Python
+100518,SQL
+100519,A/B Testing
+100519,Azure
+100519,Business Intelligence
+100519,Data Modeling
+100519,Google Analytics
+100519,SQL
+100519,Snowflake
+100520,AWS
+100520,Excel
+100520,Machine Learning
+100520,Python
+100520,R
+100520,SQL
+100521,Looker
+100521,Power BI
+100521,SQL
+100521,Snowflake
+100522,Excel
+100522,Google Analytics
+100522,SQL
+100523,Azure
+100523,Excel
+100523,SQL
+100524,ETL
+100524,Excel
+100524,SQL
+100525,Data Modeling
+100525,ETL
+100525,Excel
+100525,Machine Learning
+100525,Power BI
+100525,Snowflake
+100526,A/B Testing
+100526,AWS
+100526,Looker
+100526,Power BI
+100526,SQL
+100526,Statistics
+100526,Tableau
+100527,AWS
+100527,Business Intelligence
+100527,Data Modeling
+100527,Excel
+100527,Google Analytics
+100527,Python
+100527,SQL
+100528,AWS
+100528,Excel
+100528,SQL
+100528,Snowflake
+100529,Azure
+100529,Google Analytics
+100529,SQL
+100529,Snowflake
+100529,Statistics
+100530,Azure
+100530,Data Modeling
+100530,Looker
+100530,SQL
+100531,Business Intelligence
+100531,Communication
+100531,Data Visualization
+100531,ETL
+100531,Excel
+100531,Power BI
+100531,SQL
+100532,Data Visualization
+100532,Excel
+100532,SQL
+100533,Communication
+100533,Data Modeling
+100533,ETL
+100533,Excel
+100533,Power BI
+100533,SQL
+100533,Statistics
+100534,A/B Testing
+100534,Machine Learning
+100534,Python
+100534,Tableau
+100535,Azure
+100535,Communication
+100535,Excel
+100535,Google Analytics
+100535,Machine Learning
+100535,SQL
+100536,Excel
+100536,SQL
+100536,Statistics
+100537,Excel
+100537,Power BI
+100537,SQL
+100538,A/B Testing
+100538,Google Analytics
+100538,Snowflake
+100539,Business Intelligence
+100539,Excel
+100539,Google Analytics
+100539,Python
+100539,SQL
+100539,Tableau
+100540,A/B Testing
+100540,Business Intelligence
+100540,Communication
+100540,Excel
+100540,Power BI
+100540,SQL
+100541,Azure
+100541,Excel
+100541,Power BI
+100541,Statistics
+100541,VBA
+100542,A/B Testing
+100542,Business Intelligence
+100542,Excel
+100542,Python
+100542,R
+100542,SQL
+100542,Tableau
+100543,AWS
+100543,Data Modeling
+100543,Data Visualization
+100543,Excel
+100543,Google Analytics
+100543,SQL
+100544,Data Modeling
+100544,Excel
+100544,Python
+100544,SQL
+100545,A/B Testing
+100545,Business Intelligence
+100545,Excel
+100545,Power BI
+100545,R
+100545,SQL
+100546,Data Modeling
+100546,ETL
+100546,Excel
+100546,R
+100546,Statistics
+100547,AWS
+100547,Azure
+100547,Excel
+100547,SQL
+100547,Statistics
+100548,Excel
+100548,Machine Learning
+100548,Power BI
+100548,SQL
+100549,Business Intelligence
+100549,Communication
+100549,Data Modeling
+100549,Excel
+100549,Power BI
+100549,Python
+100549,Tableau
+100550,AWS
+100550,Azure
+100550,Power BI
+100550,R
+100550,SQL
+100550,Statistics
+100550,Tableau
+100551,A/B Testing
+100551,Data Visualization
+100551,ETL
+100551,Excel
+100551,R
+100551,SQL
+100551,Snowflake
+100552,A/B Testing
+100552,Business Intelligence
+100552,Communication
+100552,Excel
+100552,SQL
+100552,Statistics
+100552,VBA
+100553,A/B Testing
+100553,Business Intelligence
+100553,Data Visualization
+100553,Excel
+100553,Machine Learning
+100553,SQL
+100554,A/B Testing
+100554,Excel
+100554,Machine Learning
+100554,SQL
+100555,Azure
+100555,Excel
+100555,Google Analytics
+100555,SQL
+100555,Statistics
+100556,AWS
+100556,Data Visualization
+100556,ETL
+100556,SQL
+100556,VBA
+100557,A/B Testing
+100557,Excel
+100557,SQL
+100557,Snowflake
+100558,AWS
+100558,Excel
+100558,Tableau
+100558,VBA
+100559,AWS
+100559,Excel
+100559,Google Analytics
+100559,Python
+100559,R
+100559,SQL
+100559,Tableau
+100560,Azure
+100560,ETL
+100560,Excel
+100560,Looker
+100560,SQL
+100560,Statistics
+100561,Business Intelligence
+100561,Excel
+100561,Looker
+100561,Python
+100561,R
+100561,SQL
+100561,Statistics
+100562,Communication
+100562,Excel
+100562,Power BI
+100562,R
+100562,SQL
+100562,Tableau
+100563,Business Intelligence
+100563,Machine Learning
+100563,SQL
+100563,Snowflake
+100563,Statistics
+100564,AWS
+100564,Business Intelligence
+100564,Excel
+100564,Python
+100564,R
+100564,SQL
+100565,Azure
+100565,Data Modeling
+100565,ETL
+100565,Excel
+100565,Power BI
+100565,R
+100566,Azure
+100566,Data Visualization
+100566,Excel
+100566,Power BI
+100566,Python
+100566,VBA
+100567,Azure
+100567,Data Modeling
+100567,ETL
+100567,Excel
+100567,Google Analytics
+100567,Statistics
+100568,Excel
+100568,Looker
+100568,Machine Learning
+100568,R
+100568,SQL
+100568,Snowflake
+100569,Data Visualization
+100569,R
+100569,SQL
+100569,Statistics
+100570,AWS
+100570,Excel
+100570,SQL
+100571,Google Analytics
+100571,SQL
+100571,Statistics
+100572,Azure
+100572,Excel
+100572,Google Analytics
+100572,Statistics
+100572,VBA
+100573,A/B Testing
+100573,Data Visualization
+100573,Excel
+100573,Looker
+100573,Machine Learning
+100573,Python
+100574,ETL
+100574,Google Analytics
+100574,Power BI
+100574,SQL
+100575,A/B Testing
+100575,Business Intelligence
+100575,ETL
+100575,Excel
+100575,Power BI
+100575,SQL
+100575,Snowflake
+100576,ETL
+100576,Google Analytics
+100576,SQL
+100576,Statistics
+100576,Tableau
+100576,VBA
+100577,A/B Testing
+100577,AWS
+100577,Excel
+100577,Google Analytics
+100577,SQL
+100577,Snowflake
+100578,Excel
+100578,Looker
+100578,Python
+100579,AWS
+100579,Business Intelligence
+100579,Communication
+100579,Data Visualization
+100579,Excel
+100579,R
+100579,SQL
+100580,Data Modeling
+100580,Excel
+100580,Looker
+100580,R
+100580,SQL
+100581,Azure
+100581,Excel
+100581,R
+100581,SQL
+100581,Tableau
+100582,Data Modeling
+100582,Excel
+100582,SQL
+100582,Snowflake
+100583,ETL
+100583,Excel
+100583,SQL
+100584,Data Modeling
+100584,Data Visualization
+100584,Excel
+100584,Google Analytics
+100584,Looker
+100584,SQL
+100585,ETL
+100585,Excel
+100585,Power BI
+100585,Python
+100585,R
+100585,SQL
+100585,Statistics
+100586,AWS
+100586,Communication
+100586,Excel
+100586,Google Analytics
+100586,Python
+100586,SQL
+100586,VBA
+100587,Looker
+100587,Power BI
+100587,Python
+100587,SQL
+100588,Excel
+100588,Looker
+100588,R
+100588,Statistics
+100589,AWS
+100589,Excel
+100589,Power BI
+100589,Python
+100589,R
+100589,SQL
+100590,Excel
+100590,Machine Learning
+100590,SQL
+100591,Communication
+100591,Data Visualization
+100591,Google Analytics
+100591,Looker
+100591,Snowflake
+100591,VBA
+100592,ETL
+100592,Excel
+100592,SQL
+100593,Data Modeling
+100593,Data Visualization
+100593,Google Analytics
+100593,SQL
+100594,AWS
+100594,ETL
+100594,Excel
+100594,Power BI
+100594,SQL
+100594,Statistics
+100595,Data Modeling
+100595,Excel
+100595,Google Analytics
+100595,Looker
+100595,Power BI
+100595,R
+100595,SQL
+100596,A/B Testing
+100596,Data Modeling
+100596,Excel
+100596,Looker
+100596,Power BI
+100596,SQL
+100597,Azure
+100597,Communication
+100597,Data Modeling
+100597,Excel
+100597,SQL
+100598,ETL
+100598,Excel
+100598,Google Analytics
+100598,SQL
+100599,A/B Testing
+100599,Data Modeling
+100599,ETL
+100599,Machine Learning
+100599,Power BI
+100599,SQL
+100599,VBA
+100600,AWS
+100600,Google Analytics
+100600,SQL
