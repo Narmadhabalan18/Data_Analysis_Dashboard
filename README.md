@@ -13,11 +13,11 @@ Posting trends over time
 Which cities have the most job openings
 
 🔑 Key Metrics (KPI Cards)
-Metric	Value
-Total Job Postings	600
-Average Salary	$85K
-Remote %	30.50%
-Hybrid %	42.17%
+->Metric	Value
+->Total Job Postings	600
+->Average Salary	$85K
+->Remote %	30.50%
+->Hybrid %	42.17%
 
 📈 Dashboard Features
 1. Filters / Slicers
